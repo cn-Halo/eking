@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <groupId>org.sshapp</groupId>
+        <artifactId>sshapp-parent</artifactId>
+        <version>3.1.0-SNAPSHOT</version>
+        <relativePath>../</relativePath>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>sshapp-config</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>sshapp-config-web</module>
+        <module>sshapp-config-cache</module>
+        <module>sshapp-config-orm</module>
+        <module>sshapp-config-log</module>
+        <module>sshapp-config-res</module>
+        <module>sshapp-config-microsvc</module>
+        <module>sshapp-config-monitor</module>
+        <module>sshapp-config-fullres</module>
+        <module>sshapp-config-mq</module>
+        <module>sshapp-config-schedule</module>
+    </modules>
+
+</project>

@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 26 15:28:00 CST 2020
+activiti-bpmn-model-6.0.0.jar>nexus-releases=
+activiti-bpmn-model-6.0.0.pom>nexus-releases=

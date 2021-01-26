@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Nov 24 10:03:21 CST 2020
+flyway-core-7.2.0.jar>nexus-releases=
+flyway-core-7.2.0.pom>nexus-releases=

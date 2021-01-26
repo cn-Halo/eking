@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Oct 31 15:18:59 CST 2020
+metrics-core-2.2.0.jar>nexus-releases=
+metrics-core-2.2.0.pom>nexus-releases=

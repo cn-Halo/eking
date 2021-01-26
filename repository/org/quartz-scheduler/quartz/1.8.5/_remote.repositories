@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Aug 10 10:48:37 CST 2020
+quartz-1.8.5.jar>nexus-releases=
+quartz-1.8.5.pom>nexus-releases=

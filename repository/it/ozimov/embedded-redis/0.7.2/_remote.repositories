@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 05 11:20:29 CST 2020
+embedded-redis-0.7.2.jar>nexus-releases=
+embedded-redis-0.7.2.pom>nexus-releases=

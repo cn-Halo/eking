@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 05 13:17:11 CST 2020
+json-20180130.jar>nexus-releases=
+json-20180130.pom>nexus-releases=

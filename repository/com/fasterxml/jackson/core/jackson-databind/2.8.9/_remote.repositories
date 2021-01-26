@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Aug 28 08:07:56 CST 2020
+jackson-databind-2.8.9.jar>nexus-releases=
+jackson-databind-2.8.9.pom>nexus-releases=

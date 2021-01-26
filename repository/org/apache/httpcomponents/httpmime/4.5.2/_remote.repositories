@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 26 10:47:39 CST 2020
+httpmime-4.5.2.jar>nexus-releases=
+httpmime-4.5.2.pom>nexus-releases=

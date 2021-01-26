@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 26 10:47:39 CST 2020
+tomcat-jdbc-8.5.11.jar>nexus-releases=
+tomcat-jdbc-8.5.11.pom>nexus-releases=

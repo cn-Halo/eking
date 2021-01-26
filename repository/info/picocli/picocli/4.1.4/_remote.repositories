@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Oct 31 15:07:23 CST 2020
+picocli-4.1.4.jar>nexus-releases=
+picocli-4.1.4.pom>nexus-releases=

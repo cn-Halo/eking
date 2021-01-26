@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Aug 10 10:49:32 CST 2020
+asm-analysis-4.1.jar>nexus-releases=
+asm-analysis-4.1.pom>nexus-releases=

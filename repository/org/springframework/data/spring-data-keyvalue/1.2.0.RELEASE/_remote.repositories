@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 26 10:47:39 CST 2020
+spring-data-keyvalue-1.2.0.RELEASE.jar>nexus-releases=
+spring-data-keyvalue-1.2.0.RELEASE.pom>nexus-releases=

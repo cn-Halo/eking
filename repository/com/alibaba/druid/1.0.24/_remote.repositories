@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 12 15:08:40 CST 2020
+druid-1.0.24.jar>nexus-releases=
+druid-1.0.24.pom>nexus-releases=

@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 26 10:47:39 CST 2020
+spring-boot-starter-freemarker-1.5.1.RELEASE.jar>nexus-releases=
+spring-boot-starter-freemarker-1.5.1.RELEASE.pom>nexus-releases=

@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Aug 06 16:03:00 CST 2020
+fst-2.56.jar>nexus-releases=
+fst-2.56.pom>nexus-releases=

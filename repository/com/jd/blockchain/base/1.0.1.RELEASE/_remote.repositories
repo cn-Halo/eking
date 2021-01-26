@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 05 11:20:30 CST 2020
+base-1.0.1.RELEASE.jar>nexus-releases=
+base-1.0.1.RELEASE.pom>nexus-releases=

@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Sep 24 13:54:59 CST 2020
+http\://192.168.1.27\:8082/nexus/content/groups/public/.error=
+http\://192.168.1.27\:8082/nexus/content/groups/public/.lastUpdated=1600926899866

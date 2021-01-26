@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <artifactId>sshapp-oauth2</artifactId>
+        <groupId>org.sshapp</groupId>
+        <version>20201205_2</version>
+    </parent>
+
+    <artifactId>sshapp-oauth2-authres</artifactId>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.sshapp</groupId>
+            <artifactId>sshapp-oauth2-core</artifactId>
+        </dependency>
+    </dependencies>
+
+
+</project>

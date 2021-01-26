@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Jan 20 19:37:38 CST 2021
+postgresql-9.1-901.jdbc4.jar>nexus-releases=
+postgresql-9.1-901.jdbc4.pom>nexus-releases=

@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 12 14:23:34 CST 2020
+httpclient-cache-4.5.6.jar>nexus-releases=
+httpclient-cache-4.5.6.pom>nexus-releases=

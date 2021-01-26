@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Aug 28 08:08:01 CST 2020
+jdom-1.0.jar>nexus-releases=
+jdom-1.0.pom>nexus-releases=

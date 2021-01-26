@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 26 10:47:51 CST 2020
+maven-dependency-analyzer-1.6.jar>nexus-releases=
+maven-dependency-analyzer-1.6.pom>nexus-releases=

@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Aug 06 16:03:00 CST 2020
+rxjava-2.1.14.jar>nexus-releases=
+rxjava-2.1.14.pom>nexus-releases=

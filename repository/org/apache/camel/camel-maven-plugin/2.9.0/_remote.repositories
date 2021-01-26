@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Aug 10 10:48:38 CST 2020
+camel-maven-plugin-2.9.0.jar>nexus-releases=
+camel-maven-plugin-2.9.0.pom>nexus-releases=

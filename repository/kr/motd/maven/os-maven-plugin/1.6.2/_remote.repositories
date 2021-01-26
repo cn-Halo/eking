@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Oct 31 15:00:05 CST 2020
+os-maven-plugin-1.6.2.jar>nexus-releases=
+os-maven-plugin-1.6.2.pom>nexus-releases=

@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Aug 05 13:17:11 CST 2020
+okio-1.6.0.jar>nexus-releases=
+okio-1.6.0.pom>nexus-releases=
